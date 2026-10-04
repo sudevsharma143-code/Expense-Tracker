@@ -1,0 +1,7 @@
+===== All Expenses =====
+No.  Name                     Category            Amount
+-----------------------------------------------------------------
+1    Lunch                    Food                Rs. 120.00
+2    Bus                      Travel              Rs. 50.00
+3    Notebook                 Study               Rs. 80.00
+4    Dinner                   Food                Rs. 200.00

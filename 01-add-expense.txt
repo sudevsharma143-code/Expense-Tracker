@@ -1,0 +1,12 @@
+EXPENSE TRACKER
+1. Add Expense
+2. List Expenses
+3. Category Total
+4. Overall Total
+5. Exit
+
+Enter your choice (1-5): 1
+Enter expense name: Lunch
+Enter category: Food
+Enter amount: 120
+Expense added successfully!

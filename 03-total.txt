@@ -1,0 +1,6 @@
+===== Category Total =====
+Enter category: Food
+Total for Food: Rs. 320.00
+
+===== Overall Total =====
+Total Expenses: Rs. 450.00
